@@ -25,4 +25,8 @@ The main idea is to measure the pupilary distance on the image, then use the rel
 - `web_camera_capture` adapted from [https://stackoverflow.com/questions/34588464/python-how-to-capture-image-from-webcam-on-click-using-opencv](https://stackoverflow.com/questions/34588464/python-how-to-capture-image-from-webcam-on-click-using-opencv).
 - Pupil auto detection developed based on Lisa and Sharon's code in [https://github.com/vision-correcting-display/VCD-3D/blob/master/eye_tracking/eyes_captured.py](https://github.com/vision-correcting-display/VCD-3D/blob/master/eye_tracking/eyes_captured.py). 
 
-
+## screenshots
+- Manual:
+![screenshot manual](img/screenshot_manual.jpg)
+- Auto:
+![screenshot manual](img/auto.jpg)
